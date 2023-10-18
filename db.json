@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "Paddington",
+      "image": "https://hometown.gumlet.io/media/product/93/2463/65420/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+      "description": "3 Seater Blue Color",
+      "price": 81400,
+      "type": "sofa"
+    },
+    {
+      "id": 2,
+      "brand": "Claire Velvet",
+      "image": "https://hometown.gumlet.io/media/product/28/2073/73157/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+      "description": "Seesam Wood Beige Color",
+      "price": 75400,
+      "type": "sofa"
+    },
+    {
+      "id": 3,
+      "brand": "Garcia Fabric",
+      "image": "https://hometown.gumlet.io/media/product/89/0063/31713/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+      "description": "Stylish & Comfy",
+      "price": 65700,
+      "type": "sofa"
+    },
+    {
+      "id": 4,
+      "brand": "Catalina Fabric",
+      "image": "https://hometown.gumlet.io/media/product/44/6473/26709/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+      "description": "Sheesham Wood & Stylish look",
+      "price": 92000,
+      "type": "sofa"
+    },
+    {
+      "id": 5,
+      "brand": "Claire Velvet",
+      "image": "https://hometown.gumlet.io/media/product/50/0653/29361/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+      "description": "3 Seater left Hand Side",
+      "price": 80000,
+      "type": "sofa"
+    },
+    {
+      "id": 6,
+      "brand": "Paddington",
+      "image": "https://hometown.gumlet.io/media/product/25/8273/44943/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+      "description": "Fabric with Beige Color",
+      "price": 70000,
+      "type": "sofa"
+    },
+    {
+      "id": 7,
+      "brand": "Catalina Fabric",
+      "image": "https://hometown.gumlet.io/media/product/87/2073/37980/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+      "description": "Stylish & Comfy with Blue Color",
+      "price": 78000,
+      "type": "sofa"
+    },
+    {
+      "id": 8,
+      "brand": "Garcia Fabric",
+      "image": "https://hometown.gumlet.io/media/product/89/0063/31713/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+      "description": "2 Seater with Pillow Design",
+      "price": 66000,
+      "type": "sofa"
+    },
+    {
+      "id": 9,
+      "brand": "Antwerp Bed",
+      "image": "https://hometown.gumlet.io/media/product/63/1073/79527/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+      "description": "Queen size Bed",
+      "price": 32000,
+      "type": "bed"
+    },
+    {
+      "id": 10,
+      "brand": "Minerva Bed",
+      "image": "https://hometown.gumlet.io/media/product/59/1273/75699/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+      "description": "Seesam Quality Bed",
+      "price": 44000,
+      "type": "bed"
+    }
+  ],
+  "favourite": [
+    {
+      "id": 1,
+      "brand": "Paddington",
+      "image": "https://hometown.gumlet.io/media/product/93/2463/65420/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+      "description": "3 Seater Blue Color",
+      "price": 81400,
+      "type": "sofa"
+    },
+    {
+      "id": 2,
+      "brand": "Claire Velvet",
+      "image": "https://hometown.gumlet.io/media/product/28/2073/73157/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+      "description": "Seesam Wood Beige Color",
+      "price": 75400,
+      "type": "sofa"
+    },
+    {
+      "id": 3,
+      "brand": "Garcia Fabric",
+      "image": "https://hometown.gumlet.io/media/product/89/0063/31713/1.jpg?mode=fill&w=273&h=273&dpr=1.0",
+      "description": "Stylish & Comfy",
+      "price": 65700,
+      "type": "sofa"
+    }
+  ]
+}
